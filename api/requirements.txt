@@ -1,0 +1,6 @@
+fastapi
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+uvicorn
+sqlmodel
